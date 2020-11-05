@@ -72,6 +72,8 @@
     <Content Include="images\bunny.jpg" />
     <Content Include="images\cat.jpg" />
     <Content Include="images\dog.jpg" />
+    <Content Include="images\medication1.jpg" />
+    <Content Include="images\medication2.jpg" />
     <Content Include="PageThree.aspx" />
     <Content Include="PageTwo.aspx" />
     <Content Include="Web.config" />
